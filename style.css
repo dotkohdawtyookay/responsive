@@ -79,6 +79,7 @@
     padding: 50px;
     max-width: 961px;
     background: #D6E9FE;
+    flex-wrap: wrap;
         
 }
 
